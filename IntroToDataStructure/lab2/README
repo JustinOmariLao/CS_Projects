@@ -1,0 +1,16 @@
+/* Name: Justin Lao
+* CruzID: jlao3
+* Class: CSE15
+* Date: 10/18/2019
+*
+* Assignment: pa2
+* Project Role: Takes two command line arguments giving the input and output file
+* names respectively, then classifies the characters on each line of the input file into the following categories:
+* alphabetic characters (upper or lower case), numeric characters (digits 0-9), punctuation, and white space
+* (space, tab, or newline). Any characters on a given line of the input file which cannot be placed into one of
+* these four categories (such as control or non-printable characters) will be ignored. Your program will print a
+* report to the output file for each line in the input file giving the number of characters of each type, and the
+* characters themselves.
+*
+* Files Being Submitted: README, Makefile, charType.c
+*/

@@ -1,0 +1,10 @@
+/* Name: Justin Lao
+* CruzID: jlao3
+* Class: CSE15
+* Date: 10/29/2019
+*
+* Assignment: lab3
+* Project Role: Complete the Integer Stack ADT by creating an implementation (.c) file called IntegerStack.c that
+*               implements all of the functions in the header, along with any necessary helper functions and types.
+* Files Being Submitted: README, Makefile, IntegerStack.c, IntegerStack.h, IntegerStackTest.c
+*/

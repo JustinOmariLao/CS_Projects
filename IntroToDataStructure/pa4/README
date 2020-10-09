@@ -1,0 +1,12 @@
+/* Name: Justin Lao
+* CruzID: jlao3
+* Class: CSE15
+* Date: 11/15/2019
+*
+* Assignment: pa4
+* Project Role: Given a batch of 𝑚 jobs, each with specific arrival times and
+*               durations, determine (1) the total wait time (the total time spent by all 𝑚 jobs waiting in queues),
+*               (2) the maximum wait time (the longest wait any of the 𝑚 jobs endured) and (3) the average wait time
+*               over all 𝑚 jobs. Furthermore, determine these quantities for 𝑛 processors, where 𝑛 ranges from 1 to
+*               𝑚 − 1
+*/

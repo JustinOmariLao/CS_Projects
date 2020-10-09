@@ -1,0 +1,9 @@
+/* Name: Justin Lao
+* CruzID: jlao3
+* Class: CSE15
+* Date: 11/27/2019
+*
+* Assignment: lab5
+* Project Role: Convert one of our sorting algorithms so that it operates on arrays of strings instead of arrays of
+*               integers. The sorting algorithm you will convert is Quicksort.
+*/

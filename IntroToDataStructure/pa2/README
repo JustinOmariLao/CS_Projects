@@ -1,0 +1,9 @@
+/* Name: Justin Lao
+* CruzID: jlao3
+* Class: CSE15
+* Date: 10/18/2019
+*
+* Assignment: pa2
+* Project Role: Write a C program that uses recursion to find all solutions to the n-Queens problem, for 1 ≤ 𝑛 ≤ 15.
+* Files Being Submitted: README, Makefile, Queens.c
+*/
